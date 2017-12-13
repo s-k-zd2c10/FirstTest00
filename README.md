@@ -22,5 +22,5 @@
 ![画像](heeps://www.google.jp/img.jpg)
 
 |aa|bb|cc|
-|aa|bb|cc|
+|:--:|:--:|::--|
 |aa|bb|cc|
